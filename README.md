@@ -1,23 +1,36 @@
 # ETSII ULL Grado de Informatica
+## DESARROLLO DE SISTEMAS INFORMÁTICOS 2015/2016
+### Práctica 2: Conversor en JavaScript de grados Celsius a Farenheit y viceversa
 
-## Práctica: Conversor en JavaScript de grados Celsius a Farenheit y viceversa
+### Descripción de la Práctica
+Conversor en JavaScript de grados Celsius a Farenheit y viceversade de temperatura
 
-### Que aprendemos
-
+### Tecnologías a utilizar
 * HTML básico
+* CSS básico
 * JavaScript básico
 * Expresiones Regulares
-* Un poquito de CSS
-* Uso de Emmet (instale el plugin para su editor)
-* Uso de Mocha y Chai 
-* Uso de Gulp
+* Uso de Emmet (instalar el plugin para Atom)
 
-### Despliegue en github.io
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/)
-* [http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/](http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/)
+### Enlaces
 
-### Ejecutar las pruebas
+#### Página personal de prácticas
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html)
-* [http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/tests/index.html](http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/tests/index.html)
+* [http://alu4543.github.io/](http://alu4543.github.io/)
+
+#### Repositorio git de la práctica
+
+* [https://github.com/alu4543/introduccion-mateam/](https://github.com/alu4543/introduccion-mateam/)
+
+#### Despliegue de la práctica en Github
+
+* [http://alu4543.github.io/introduccion-mateam/](http://alu4543.github.io/introduccion-mateam/)
+
+#### Repositorio git de la práctica de la organización
+
+* [https://github.com/ULL-ESIT-GRADOII-DSI/introduccion-mateam/](https://github.com/ULL-ESIT-GRADOII-DSI/introduccion-mateam/)
+
+#### Despliegue de la práctica en Github de la organización
+
+* [http://ull-esit-gradoii-dsi.github.io/introduccion-mateam/](http://ull-esit-gradoii-dsi.github.io/introduccion-mateam/)
